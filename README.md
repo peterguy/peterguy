@@ -1,6 +1,6 @@
 👋 Hi, I’m @peterguy
 
-I have been a software engineer and general man-about-town in related fields for nearly three decades. Now that I think about it, I should be better at this stuff than I am. :-)
+I have been a software engineer and general man-about-town in related fields for over two decades. Now that I think about it, I should be better at this stuff than I am. :-)
 
 These days, I work mostly in Java, with a large helping of shell script. I don't confine myself to those venerable languages, but tend to use whatever is at hand; finding myself slowly replacing shell scripting with python and node, and Java with Kotlin. I've dabbled regularly on the Dark Side with classic VB back in the day (cut my teeth on VB DLLs), and now C# and some .Net VB, along with a little Windows batch scripting as I can get away with, and some scattered PowerShell. I still do a fair amount with SOAP and XML, to my chagrin, but have also done my share of REST and JSON. When it comes to web work, I can keep up with design and layout, but find my expertise in designing APIs and programming behaviors. To that end, I have used JavaScript, PHP, Java Servlets, and on occasion C#.
 
